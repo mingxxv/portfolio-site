@@ -31,7 +31,7 @@ const Hero = (props) => (
     wrapper="span"
   />
       </SectionText>
-      <Button onClick={() => window.location = 'mailto:gordon_mx@proton.me'}>
+      <Button onClick={() => window.location = 'mailto:gordon_mx@pm.me'}>
         Learn More
       </Button>
     </LeftSection>
