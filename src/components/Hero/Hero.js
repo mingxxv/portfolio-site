@@ -9,7 +9,7 @@ const Hero = (props) => (
   <Section >
     <LeftSection>
       <EmojiSectionTitle>
-        Hi, I'm Gordon! 👋
+        Hi, I'm Gordon!
        
       </EmojiSectionTitle>
       <SectionText>
@@ -32,7 +32,7 @@ const Hero = (props) => (
   />
       </SectionText>
       <Button onClick={() => window.location = 'mailto:gordon_mx@pm.me'}>
-        Learn More
+        Contact Me
       </Button>
     </LeftSection>
   </Section>
