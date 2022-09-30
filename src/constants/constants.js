@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Jiak-섬 (JiakSEOM)',
     description: "A proof-of-concept of a Korean food delivery app, written in the MERN stack.",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['React', 'Express'],
     source: 'https://github.com/mingxxv/teamKorea',
     visit: 'https://jiakseom.herokuapp.com/landing',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Relak',
     description: "A full-stack relaxation app, written in React, with the backend in Django.",
-    image: '/images/4.jpg',
+    image: '/images/4.png',
     tags: ['React', 'Django', 'Python'],
     source: 'https://github.com/mingxxv/relak',
     visit: 'https://relak.vercel.app/',
